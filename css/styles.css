@@ -1,0 +1,29 @@
+body {
+    background-color: #FAECD6;
+}
+
+h1,
+h3 {
+    color: #820000;
+}
+
+hr {
+    border-color: #F2DEBA;
+    border-style: dotted none none none;
+    border-width: 7px;
+    width: 50px;
+}
+
+img {
+    border-radius: 50%;
+}
+
+#inner {
+    display: table;
+    margin: 0 auto;
+}
+
+#outer {
+    width: 100%;
+    margin : auto;
+}
